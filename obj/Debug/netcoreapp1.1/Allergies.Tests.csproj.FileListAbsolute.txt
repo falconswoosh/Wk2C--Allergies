@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/Allergies.Solution/Allergies.Tests/bin/Debug/netcoreapp1.1/Allergies.Tests.deps.json
+/Users/Guest/Desktop/Allergies.Solution/Allergies.Tests/bin/Debug/netcoreapp1.1/Allergies.Tests.runtimeconfig.json
+/Users/Guest/Desktop/Allergies.Solution/Allergies.Tests/bin/Debug/netcoreapp1.1/Allergies.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/Allergies.Solution/Allergies.Tests/obj/Debug/netcoreapp1.1/Allergies.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/Allergies.Solution/Allergies.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/Allergies.Solution/Allergies.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/Allergies.Solution/Allergies.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/Allergies.Solution/Allergies.Tests/bin/Debug/netcoreapp1.1/Allergies.Tests.dll
+/Users/Guest/Desktop/Allergies.Solution/Allergies.Tests/bin/Debug/netcoreapp1.1/Allergies.Tests.pdb
+/Users/Guest/Desktop/Allergies.Solution/Allergies.Tests/bin/Debug/netcoreapp1.1/Allergies.dll
+/Users/Guest/Desktop/Allergies.Solution/Allergies.Tests/bin/Debug/netcoreapp1.1/Allergies.pdb
+/Users/Guest/Desktop/Allergies.Solution/Allergies.Tests/obj/Debug/netcoreapp1.1/Allergies.Tests.dll
+/Users/Guest/Desktop/Allergies.Solution/Allergies.Tests/obj/Debug/netcoreapp1.1/Allergies.Tests.pdb
